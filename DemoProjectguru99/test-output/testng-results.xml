@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="64044" started-at="2019-04-14T17:47:28Z" finished-at="2019-04-14T17:48:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="64044" started-at="2019-04-14T17:47:28Z" finished-at="2019-04-14T17:48:32Z">
+      <class name="com.guru99.test.TestGuru99Login">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.test.TestGuru99Login@6cc4c815]" name="setUp" is-config="true" duration-ms="49289" started-at="2019-04-14T23:17:28Z" finished-at="2019-04-14T23:18:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLogIn()[pri:0, instance:com.guru99.test.TestGuru99Login@6cc4c815]" name="testLogIn" duration-ms="13220" started-at="2019-04-14T23:18:18Z" finished-at="2019-04-14T23:18:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogIn -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.guru99.test.TestGuru99Login@6cc4c815]" name="afterTest" is-config="true" duration-ms="1443" started-at="2019-04-14T23:18:31Z" finished-at="2019-04-14T23:18:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.guru99.test.TestGuru99Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
