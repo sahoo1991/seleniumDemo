@@ -6,7 +6,8 @@
       <class name="com.guru99.test.TestGuru99Login">
         <methods>
           <include name="setUp"/>
-          <include name="testLogIn"/>
+          <include name="afterTest"/>
+          <include name="testLogIn" invocation-numbers="1 2 3"/>
         </methods>
       </class> <!-- com.guru99.test.TestGuru99Login -->
     </classes>
